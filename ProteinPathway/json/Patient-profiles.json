@@ -1,0 +1,866 @@
+{
+"47":{
+	"Stage":"IB",
+	"Smoking":"N",
+	"Batch":"B12-3",
+	"Age":"yr60",
+	"GN":" b12r3",
+	"Subtype":"L858R",
+	"Gender":"F"
+},
+"50":{
+	"Stage":"IA",
+	"Smoking":"Y",
+	"Batch":"B13-2",
+	"GN":" b13r2",
+	"Age":"yr69",
+	"Subtype":"L858R",
+	"Gender":"M"
+},
+"53":{
+	"Age":"yr63",
+	"GN":" b14r1",
+	"Subtype":"Del19",
+	"Gender":"M",
+	"Stage":"IA",
+	"Smoking":"Y",
+	"Batch":"B14-1"
+},
+"62":{
+	"Age":"yr59",
+	"GN":" b16r2",
+	"Gender":"F",
+	"Subtype":"L858R",
+	"Stage":"IB",
+	"Smoking":"N",
+	"Batch":"B16-2"
+},
+"31":{
+	"Subtype":"KRAS215(T)",
+	"Gender":"M",
+	"Age":"yr63",
+	"GN":" b08r3",
+	"Batch":"B8-3",
+	"Smoking":"Y",
+	"Stage":"IA"
+},
+"32":{
+	"GN":" b08r4",
+	"Age":"yr78",
+	"Gender":"M",
+	"Subtype":"Del19",
+	"Stage":"IA",
+	"Smoking":"N",
+	"Batch":"B8-4"
+},
+"93":{
+	"Stage":"IVA",
+	"Batch":"B24-1",
+	"Smoking":"N",
+	"Age":"yr73",
+	"GN":" b24r1",
+	"Gender":"F",
+	"Subtype":""
+},
+"45":{
+	"GN":" b12r1",
+	"Age":"yr76",
+	"Subtype":"L858R",
+	"Gender":"F",
+	"Stage":"IB",
+	"Smoking":"N",
+	"Batch":"B12-1"
+},
+"65":{
+	"Stage":"IB",
+	"Smoking":"N",
+	"Batch":"B17-1",
+	"GN":" b17r1",
+	"Age":"yr61",
+	"Subtype":"WT",
+	"Gender":"F"
+},
+"85":{
+	"GN":" b22r1",
+	"Age":"yr63",
+	"Subtype":"",
+	"Gender":"F",
+	"Stage":"IIIA",
+	"Smoking":"N",
+	"Batch":"B22-1"
+},
+"96":{
+	"Stage":"IVB",
+	"Smoking":"Y",
+	"Batch":"B24-4",
+	"GN":" b24r4",
+	"Age":"yr69",
+	"Gender":"M",
+	"Subtype":""
+},
+"80":{
+	"Stage":"IB",
+	"Smoking":"N",
+	"Batch":"B20-4",
+	"Age":"yr76",
+	"GN":" b20r4",
+	"Gender":"F",
+	"Subtype":"L861Q"
+},
+"89":{
+	"Batch":"B23-1",
+	"Smoking":"N",
+	"Stage":"IIIA",
+	"Gender":"F",
+	"Subtype":"",
+	"Age":"yr74",
+	"GN":" b23r1"
+},
+"26":{
+	"Batch":"B7-2",
+	"Smoking":"N",
+	"Stage":"IA",
+	"Gender":"F",
+	"Subtype":"WT",
+	"Age":"yr64",
+	"GN":" b07r2"
+},
+"63":{
+	"Stage":"IB",
+	"Smoking":"N",
+	"Batch":"B16-3",
+	"GN":" b16r3",
+	"Age":"yr68",
+	"Gender":"M",
+	"Subtype":"L858R"
+},
+"36":{
+	"Batch":"B9-4",
+	"Smoking":"N",
+	"Stage":"IA",
+	"Gender":"F",
+	"Subtype":"L858R",
+	"Age":"yr61",
+	"GN":" b09r4"
+},
+"72":{
+	"Age":"yr65",
+	"GN":" b18r4",
+	"Gender":"F",
+	"Subtype":"L858R",
+	"Stage":"IB",
+	"Batch":"B18-4",
+	"Smoking":"N"
+},
+"34":{
+	"Subtype":"L858R,T790M",
+	"Gender":"F",
+	"GN":" b09r2",
+	"Age":"yr53",
+	"Batch":"B9-2",
+	"Smoking":"N",
+	"Stage":"IA"
+},
+"17":{
+	"Stage":"IIIA",
+	"Smoking":"N",
+	"Batch":"B5-1",
+	"Age":"yr71",
+	"GN":" b05r1",
+	"Subtype":"L858R",
+	"Gender":"F"
+},
+"77":{
+	"Smoking":"N",
+	"Batch":"B20-1",
+	"Stage":"IIA",
+	"Subtype":"insertion20",
+	"Gender":"F",
+	"Age":"yr44",
+	"GN":" b20r1"
+},
+"56":{
+	"Gender":"F",
+	"Subtype":"Del19",
+	"Age":"yr79",
+	"GN":" b14r4",
+	"Smoking":"N",
+	"Batch":"B14-4",
+	"Stage":"IA"
+},
+"19":{
+	"Batch":"B5-3",
+	"Smoking":"N",
+	"Stage":"IA",
+	"Subtype":"L858R",
+	"Gender":"F",
+	"Age":"yr78",
+	"GN":" b05r3"
+},
+"13":{
+	"Smoking":"N",
+	"Batch":"B4-1",
+	"Stage":"IA",
+	"Subtype":"WT",
+	"Gender":"F",
+	"GN":" b04r1",
+	"Age":"yr45"
+},
+"38":{
+	"GN":" b10r2",
+	"Age":"yr59",
+	"Subtype":"Del19",
+	"Gender":"M",
+	"Stage":"IA",
+	"Smoking":"N",
+	"Batch":"B10-2"
+},
+"75":{
+	"Subtype":"L858R",
+	"Gender":"F",
+	"Age":"yr47",
+	"GN":" b19r3",
+	"Smoking":"N",
+	"Batch":"B19-3",
+	"Stage":"IB"
+},
+"57":{
+	"Gender":"F",
+	"Subtype":"insertion20",
+	"Age":"yr58",
+	"GN":" b15r1",
+	"Batch":"B15-1",
+	"Smoking":"N",
+	"Stage":"IA"
+},
+"44":{
+	"Batch":"B11-4",
+	"Smoking":"N",
+	"Stage":"IA",
+	"Subtype":"Del19",
+	"Gender":"F",
+	"Age":"yr72",
+	"GN":" b11r4"
+},
+"69":{
+	"Subtype":"L858R",
+	"Gender":"F",
+	"GN":" b18r1",
+	"Age":"yr59",
+	"Smoking":"N",
+	"Batch":"B18-1",
+	"Stage":"IA"
+},
+"64":{
+	"Age":"yr71",
+	"GN":" b16r4",
+	"Subtype":"Del19",
+	"Gender":"M",
+	"Stage":"IB",
+	"Batch":"B16-4",
+	"Smoking":"Y"
+},
+"9":{
+	"Age":"yr53",
+	"GN":" b03r1",
+	"Subtype":"L858R",
+	"Gender":"F",
+	"Stage":"IIA",
+	"Batch":"B3-1",
+	"Smoking":"N"
+},
+"59":{
+	"Smoking":"N",
+	"Batch":"B15-3",
+	"Stage":"IB",
+	"Subtype":"L858R",
+	"Gender":"F",
+	"Age":"yr57",
+	"GN":" b15r3"
+},
+"16":{
+	"Stage":"IA",
+	"Smoking":"N",
+	"Batch":"B4-4",
+	"GN":" b04r4",
+	"Age":"yr59",
+	"Gender":"M",
+	"Subtype":"Del19"
+},
+"10":{
+	"GN":" b03r2",
+	"Age":"yr56",
+	"Subtype":"Del19",
+	"Gender":"F",
+	"Stage":"IB",
+	"Smoking":"N",
+	"Batch":"B3-2"
+},
+"35":{
+	"Stage":"IA",
+	"Batch":"B9-3",
+	"Smoking":"Y",
+	"Age":"yr82",
+	"GN":" b09r3",
+	"Subtype":"NA",
+	"Gender":"M"
+},
+"43":{
+	"Subtype":"L858R",
+	"Gender":"F",
+	"GN":" b11r3",
+	"Age":"yr78",
+	"Smoking":"N",
+	"Batch":"B11-3",
+	"Stage":"IIIA"
+},
+"1":{
+	"Stage":"IIA",
+	"Smoking":"N",
+	"Batch":"B1-1",
+	"GN":" b01r1",
+	"Age":"yr59",
+	"Subtype":"G719C;Del19",
+	"Gender":"F"
+},
+"3":{
+	"Stage":"IIA",
+	"Smoking":"N",
+	"Batch":"B1-3",
+	"Age":"yr45",
+	"GN":" b01r3",
+	"Gender":"F",
+	"Subtype":"L858R"
+},
+"46":{
+	"Stage":"IA",
+	"Smoking":"Y",
+	"Batch":"B12-2",
+	"GN":" b12r2",
+	"Age":"yr58",
+	"Subtype":"NA",
+	"Gender":"M"
+},
+"61":{
+	"Gender":"F",
+	"Subtype":"KRAS:215(T)",
+	"Age":"yr84",
+	"GN":" b16r1",
+	"Batch":"B16-1",
+	"Smoking":"Y",
+	"Stage":"IB"
+},
+"86":{
+	"Batch":"B22-2",
+	"Smoking":"N",
+	"Stage":"IB",
+	"Gender":"M",
+	"Subtype":"",
+	"GN":" b22r2",
+	"Age":"yr70"
+},
+"87":{
+	"Gender":"F",
+	"Subtype":"",
+	"GN":" b22r3",
+	"Age":"yr73",
+	"Batch":"B22-3",
+	"Smoking":"N",
+	"Stage":"IB"
+},
+"7":{
+	"GN":" b02r3",
+	"Age":"yr67",
+	"Subtype":"WT",
+	"Gender":"M",
+	"Stage":"IIA",
+	"Smoking":"N",
+	"Batch":"B2-3"
+},
+"39":{
+	"Stage":"IB",
+	"Smoking":"Y",
+	"Batch":"B10-3",
+	"Age":"yr73",
+	"GN":" b10r3",
+	"Subtype":"L858R",
+	"Gender":"M"
+},
+"41":{
+	"Smoking":"N",
+	"Batch":"B11-1",
+	"Stage":"IIIA",
+	"Gender":"M",
+	"Subtype":"NA",
+	"GN":" b11r1",
+	"Age":"yr40"
+},
+"24":{
+	"Subtype":"Del19",
+	"Gender":"M",
+	"GN":" b06r4",
+	"Age":"yr59",
+	"Batch":"B6-4",
+	"Smoking":"Y",
+	"Stage":"IA"
+},
+"68":{
+	"Stage":"IB",
+	"Batch":"B17-4",
+	"Smoking":"N",
+	"GN":" b17r4",
+	"Age":"yr68",
+	"Gender":"M",
+	"Subtype":"Del19"
+},
+"25":{
+	"Age":"yr75",
+	"GN":" b07r1",
+	"Gender":"F",
+	"Subtype":"L858R",
+	"Stage":"IB",
+	"Batch":"B7-1",
+	"Smoking":"N"
+},
+"48":{
+	"Batch":"B12-4",
+	"Smoking":"N",
+	"Stage":"IA",
+	"Subtype":"L858R",
+	"Gender":"F",
+	"Age":"yr54",
+	"GN":" b12r4"
+},
+"67":{
+	"Stage":"IB",
+	"Smoking":"N",
+	"Batch":"B17-3",
+	"Age":"yr41",
+	"GN":" b17r3",
+	"Gender":"M",
+	"Subtype":"KRAS:216(A)"
+},
+"12":{
+	"Smoking":"N",
+	"Batch":"B3-4",
+	"Stage":"IB",
+	"Gender":"M",
+	"Subtype":"Del19",
+	"Age":"yr61",
+	"GN":" b03r4"
+},
+"70":{
+	"Subtype":"Del19",
+	"Gender":"M",
+	"GN":" b18r2",
+	"Age":"yr83",
+	"Smoking":"N",
+	"Batch":"B18-2",
+	"Stage":"IIA"
+},
+"14":{
+	"Stage":"IIIA",
+	"Smoking":"N",
+	"Batch":"B4-2",
+	"Age":"yr42",
+	"GN":" b04r2",
+	"Subtype":"Del19",
+	"Gender":"M"
+},
+"28":{
+	"Subtype":"L861Q",
+	"Gender":"F",
+	"Age":"yr50",
+	"GN":" b07r4",
+	"Batch":"B7-4",
+	"Smoking":"N",
+	"Stage":"IB"
+},
+"49":{
+	"Stage":"IA",
+	"Smoking":"N",
+	"Batch":"B13-1",
+	"Age":"yr52",
+	"GN":" b13r1",
+	"Subtype":"L858R",
+	"Gender":"M"
+},
+"40":{
+	"Gender":"F",
+	"Subtype":"HER2_2325ins",
+	"GN":" b10r4",
+	"Age":"yr47",
+	"Batch":"B10-4",
+	"Smoking":"N",
+	"Stage":"IB"
+},
+"21":{
+	"Subtype":"L858R",
+	"Gender":"F",
+	"GN":" b06r1",
+	"Age":"yr85",
+	"Smoking":"N",
+	"Batch":"B6-1",
+	"Stage":"IA"
+},
+"71":{
+	"GN":" b18r3",
+	"Age":"yr68",
+	"Subtype":"Del19",
+	"Gender":"M",
+	"Stage":"IB",
+	"Smoking":"N",
+	"Batch":"B18-3"
+},
+"37":{
+	"Subtype":"L858R",
+	"Gender":"M",
+	"Age":"yr61",
+	"GN":" b10r1",
+	"Smoking":"N",
+	"Batch":"B10-1",
+	"Stage":"IB"
+},
+"55":{
+	"Age":"yr66",
+	"GN":" b14r3",
+	"Gender":"F",
+	"Subtype":"L858R",
+	"Stage":"IA",
+	"Batch":"B14-3",
+	"Smoking":"N"
+},
+"78":{
+	"Smoking":"Y",
+	"Batch":"B20-2",
+	"Stage":"IB",
+	"Subtype":"unfound",
+	"Gender":"M",
+	"GN":" b20r2",
+	"Age":"yr70"
+},
+"90":{
+	"GN":" b23r2",
+	"Age":"yr61",
+	"Gender":"M",
+	"Subtype":"",
+	"Stage":"IA3",
+	"Batch":"B23-2",
+	"Smoking":"N"
+},
+"94":{
+	"Stage":"IA3",
+	"Batch":"B24-2",
+	"Smoking":"N",
+	"GN":" b24r2",
+	"Age":"yr50",
+	"Subtype":"",
+	"Gender":"M"
+},
+"22":{
+	"Stage":"IA",
+	"Batch":"B6-2",
+	"Smoking":"N",
+	"Age":"yr63",
+	"GN":" b06r2",
+	"Gender":"F",
+	"Subtype":"L858R"
+},
+"52":{
+	"Stage":"IA",
+	"Smoking":"N",
+	"Batch":"B13-4",
+	"Age":"yr66",
+	"GN":" b13r4",
+	"Subtype":"Del19",
+	"Gender":"F"
+},
+"15":{
+	"Smoking":"N",
+	"Batch":"B4-3",
+	"Stage":"IA",
+	"Subtype":"Del19",
+	"Gender":"F",
+	"GN":" b04r3",
+	"Age":"yr54"
+},
+"58":{
+	"Batch":"B15-2",
+	"Smoking":"N",
+	"Stage":"IA",
+	"Gender":"M",
+	"Subtype":"L858R",
+	"Age":"yr85",
+	"GN":" b15r2"
+},
+"51":{
+	"GN":" b13r3",
+	"Age":"yr64",
+	"Gender":"F",
+	"Subtype":"L858R,Del19:type2",
+	"Stage":"IA",
+	"Smoking":"N",
+	"Batch":"B13-3"
+},
+"88":{
+	"Batch":"B22-4",
+	"Smoking":"Y",
+	"Stage":"IIA",
+	"Subtype":"",
+	"Gender":"M",
+	"Age":"yr62",
+	"GN":" b22r4"
+},
+"20":{
+	"Subtype":"L858R",
+	"Gender":"F",
+	"Age":"yr66",
+	"GN":" b05r4",
+	"Smoking":"N",
+	"Batch":"B5-4",
+	"Stage":"IIB"
+},
+"84":{
+	"Stage":"IA",
+	"Smoking":"N",
+	"Batch":"B21-4",
+	"Age":"yr58",
+	"GN":" b21r4",
+	"Subtype":"Del19",
+	"Gender":"F"
+},
+"92":{
+	"Subtype":"",
+	"Gender":"F",
+	"Age":"yr59",
+	"GN":" b23r4",
+	"Batch":"B23-4",
+	"Smoking":"N",
+	"Stage":"IA2"
+},
+"73":{
+	"Age":"yr70",
+	"GN":" b19r1",
+	"Subtype":"Del19",
+	"Gender":"M",
+	"Stage":"IA",
+	"Batch":"B19-1",
+	"Smoking":"N"
+},
+"79":{
+	"Stage":"IB",
+	"Smoking":"N",
+	"Batch":"B20-3",
+	"GN":" b20r3",
+	"Age":"yr58",
+	"Subtype":"KRAS216(T)",
+	"Gender":"F"
+},
+"74":{
+	"Smoking":"N",
+	"Batch":"B19-2",
+	"Stage":"IA",
+	"Subtype":"L858R",
+	"Gender":"F",
+	"Age":"yr80",
+	"GN":" b19r2"
+},
+"29":{
+	"Age":"yr66",
+	"GN":" b08r1",
+	"Gender":"M",
+	"Subtype":"WT",
+	"Stage":"IIIA",
+	"Batch":"B8-1",
+	"Smoking":"Y"
+},
+"42":{
+	"Smoking":"Y",
+	"Batch":"B11-2",
+	"Stage":"IIIA",
+	"Subtype":"WT",
+	"Gender":"M",
+	"GN":" b11r2",
+	"Age":"yr59"
+},
+"60":{
+	"Gender":"M",
+	"Subtype":"Del19",
+	"Age":"yr60",
+	"GN":" b15r4",
+	"Smoking":"N",
+	"Batch":"B15-4",
+	"Stage":"IA"
+},
+"23":{
+	"Gender":"F",
+	"Subtype":"Del19",
+	"GN":" b06r3",
+	"Age":"yr56",
+	"Batch":"B6-3",
+	"Smoking":"N",
+	"Stage":"IB"
+},
+"8":{
+	"Batch":"B2-4",
+	"Smoking":"N",
+	"Stage":"IB",
+	"Gender":"F",
+	"Subtype":"L858R,T790M",
+	"Age":"yr76",
+	"GN":" b02r4"
+},
+"81":{
+	"Stage":"IIA",
+	"Smoking":"N",
+	"Batch":"B21-1",
+	"Age":"yr60",
+	"GN":" b21r1",
+	"Subtype":"L858R",
+	"Gender":"F"
+},
+"76":{
+	"Age":"yr60",
+	"GN":" b19r4",
+	"Gender":"F",
+	"Subtype":"L858R",
+	"Stage":"IB",
+	"Smoking":"N",
+	"Batch":"B19-4"
+},
+"66":{
+	"Smoking":"Y",
+	"Batch":"B17-2",
+	"Stage":"IB",
+	"Gender":"M",
+	"Subtype":"KRAS:215(T)",
+	"GN":" b17r2",
+	"Age":"yr75"
+},
+"82":{
+	"Smoking":"N",
+	"Batch":"B21-2",
+	"Stage":"IB",
+	"Subtype":"Del19",
+	"Gender":"F",
+	"Age":"yr69",
+	"GN":" b21r2"
+},
+"83":{
+	"Batch":"B21-3",
+	"Smoking":"Y",
+	"Stage":"IA",
+	"Subtype":"L861Q",
+	"Gender":"M",
+	"Age":"yr52",
+	"GN":" b21r3"
+},
+"95":{
+	"Stage":"IIIA",
+	"Batch":"B24-3",
+	"Smoking":"Y",
+	"Age":"yr66",
+	"GN":" b24r3",
+	"Subtype":"",
+	"Gender":"F"
+},
+"30":{
+	"GN":" b08r2",
+	"Age":"yr49",
+	"Subtype":"L858R",
+	"Gender":"F",
+	"Stage":"IA",
+	"Batch":"B8-2",
+	"Smoking":"N"
+},
+"18":{
+	"Stage":"IB",
+	"Smoking":"N",
+	"Batch":"B5-2",
+	"Age":"yr65",
+	"GN":" b05r2",
+	"Subtype":"L858R",
+	"Gender":"M"
+},
+"11":{
+	"Subtype":"Del19",
+	"Gender":"M",
+	"GN":" b03r3",
+	"Age":"yr59",
+	"Smoking":"N",
+	"Batch":"B3-3",
+	"Stage":"IA"
+},
+"5":{
+	"Smoking":"Y",
+	"Batch":"B2-1",
+	"Stage":"IA",
+	"Subtype":"NA",
+	"Gender":"M",
+	"Age":"yr72",
+	"GN":" b02r1"
+},
+"2":{
+	"Smoking":"N",
+	"Batch":"B1-2",
+	"Stage":"IB",
+	"Gender":"M",
+	"Subtype":"G719A,E709G",
+	"Age":"yr73",
+	"GN":" b01r2"
+},
+"27":{
+	"Age":"yr69",
+	"GN":" b07r3",
+	"Subtype":"Del19",
+	"Gender":"F",
+	"Stage":"IA",
+	"Smoking":"N",
+	"Batch":"B7-3"
+},
+"6":{
+	"Subtype":"WT",
+	"Gender":"F",
+	"Age":"yr46",
+	"GN":" b02r2",
+	"Smoking":"N",
+	"Batch":"B2-2",
+	"Stage":"IB"
+},
+"91":{
+	"Subtype":"",
+	"Gender":"F",
+	"Age":"yr64",
+	"GN":" b23r3",
+	"Smoking":"N",
+	"Batch":"B23-3",
+	"Stage":"IA2"
+},
+"4":{
+	"Stage":"IA",
+	"Batch":"B1-4",
+	"Smoking":"N",
+	"GN":" b01r4",
+	"Age":"yr52",
+	"Gender":"F",
+	"Subtype":"Del19"
+},
+"54":{
+	"Batch":"B14-2",
+	"Smoking":"N",
+	"Stage":"IIIA",
+	"Gender":"M",
+	"Subtype":"Del19",
+	"Age":"yr57",
+	"GN":" b14r2"
+},
+"33":{
+	"Smoking":"N",
+	"Batch":"B9-1",
+	"Stage":"IA",
+	"Subtype":"Del19",
+	"Gender":"F",
+	"Age":"yr52",
+	"GN":" b09r1"
+}
+}
