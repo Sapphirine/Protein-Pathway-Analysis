@@ -1,0 +1,67 @@
+.axis path,
+.axis line {
+    fill: none;
+    stroke: none;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: "Times New Roman";
+    font-size: 12px;
+}
+
+.page-header {
+    background-color: transparent;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #ffffff;
+    font-size: 36pt;
+    text-decoration: none;
+}
+.corrmat {
+    text-align: center; 
+    border-radius: 20px;
+    width: 1000px;
+    height: 530px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #fff;
+}
+.hier {
+    text-align: center; 
+    border-radius: 20px;
+    width: 700px;
+    height: 1700px;
+    margin: auto;
+/*     position: absolute;
+    top: 1810;
+    left: 0;
+    right: 0;
+    bottom: 0; */
+    background-color: #fff;
+}
+body {
+height: 100%;
+}
+
+body {
+background-image: url("./genebackground.jpg");
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-attachment: fixed;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Times New Roman', cursive;
+}
+
+div {
+  border:3px solid transparent;
+}
+

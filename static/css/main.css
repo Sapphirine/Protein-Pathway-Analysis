@@ -1,0 +1,100 @@
+.page-header {
+    background-color: transparent;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #ffffff;
+    font-size: 36pt;
+    text-decoration: none;
+}
+.visualization {
+     float: left;
+     margin-left: 30px;
+     width: 1000px;
+     height: 600px;
+     background-color: transparent;
+}
+.text {
+     margin-left: 1060px;
+     width: 350px;
+     height: 600px;
+     background-color: #fff;
+}
+.content {
+    margin-left: 40px;
+}
+
+.choose{
+    text-align: center; 
+    border-radius: 20px;
+    width: 1000px;
+    height: 350px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+body {
+height: 100%;
+}
+
+body {
+background-image: url("./genebackground.jpg");
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-attachment: fixed;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Times New Roman', cursive;
+}
+
+.date {
+    color: #828282;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.post {
+    margin-bottom: 70px;
+}
+
+.post h2 a, .post h2 a:visited {
+    color: #000000;
+}
+
+.links line {
+  stroke: #fff;
+  stroke-opacity: 1.0;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+text {
+  stroke: #fff;
+  font-family: sans-serif;
+  font-size: 10px;
+}
+div {
+  border:3px solid transparent;
+}
